@@ -2,6 +2,7 @@
 
 The IMessage project is a study-focused application built with Next.js. It is a real-time messaging application that incorporates authentication features.
 
+![Project Demo](public/images/hellothere.png)
 
 ## Demo
 ```
