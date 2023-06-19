@@ -4,12 +4,13 @@ import { Inter } from 'next/font/google'
 
 import ToasterContext from './context/ToasterContext'
 import AuthContext from './context/AuthContext'
+import ActiveStatus from './components/ActiveStatus'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Messenger App',
-  description: 'Next13 Messenger App',
+  title: 'IMessage: Real Time Messages',
+  description: 'Next13 IMessage App',
 }
 
 export default function RootLayout({
@@ -22,6 +23,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <AuthContext>
           <ToasterContext />
+          <ActiveStatus />
           {children}
         </AuthContext>
       </body>
