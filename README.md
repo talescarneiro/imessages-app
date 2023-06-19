@@ -7,7 +7,11 @@ Brief project description.
 ```
 - Node.js (version 14.x)
 
+```
+
 Make sure you have Node.js installed by running the following command in the terminal:
+```
+node --version
 ```
 
 ## Cloning the repository
