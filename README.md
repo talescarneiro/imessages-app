@@ -2,6 +2,12 @@
 
 The IMessage project is a study-focused application built with Next.js. It is a real-time messaging application that incorporates authentication features.
 
+
+## Demo
+```
+https://imessages-app.vercel.app/
+```
+
 ## Technologies Used
 
 **TypeScript:** The project is developed using TypeScript, a statically typed superset of JavaScript, which provides enhanced tooling and type safety.
