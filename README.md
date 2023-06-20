@@ -25,6 +25,8 @@ https://imessages-app.vercel.app/
 
 **Pusher:** Pusher is utilized for real-time communication, enabling features like instant messaging and real-time updates.
 
+**MongoDB:** Powerful NoSQL database with flexible schema, JSON-like data format, and high scalability for modern web applications.
+
 ## Prerequisites
 
 ```
