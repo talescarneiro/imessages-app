@@ -27,6 +27,8 @@ https://imessages-app.vercel.app/
 
 **MongoDB:** Powerful NoSQL database with flexible schema, JSON-like data format, and high scalability for modern web applications.
 
+**Prisma:** Prisma is utilized as an ORM (Object-Relational Mapping) tool, providing a type-safe and database-agnostic query interface for seamless integration with databases.
+
 ## Prerequisites
 
 ```
