@@ -43,7 +43,7 @@ node --version
 ## Cloning the repository
 
 ```
-git clone git@github.com:talescarneiro/messenger-app.git
+git clone git@github.com:talescarneiro/imessages-app.git
 ```
 
 ## Install packages
